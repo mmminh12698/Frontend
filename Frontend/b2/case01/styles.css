@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box-blue {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+ }
+ .box-green {
+    position: absolute;
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    left: 10px;
+    top: 10px;
+ }
+.box-orange {
+    position: absolute;
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    left: 25px;
+    top: 25px;
+}
+
