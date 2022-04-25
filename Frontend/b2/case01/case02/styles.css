@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box-blue {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+ }
+ .box{
+    position: absrolute;
+    background-color: green;
+    height: 100px;
+    width:  100px;
+    top: 0px;
+    left: 0;
+    text-align: center;
+    line-height: 100px;
+ }
+
+ .box1{
+    position: absolute;
+    background-color: green;
+    height: 100px;
+    width:  100px;
+    left: 0px;
+    bottom: 0px;
+    text-align: center;
+    line-height: 100px;
+ }
+.box2 {
+    position: absolute;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    bottom: 0px;
+    right:  0px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.center {
+    position: absolute;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    line-height: 100px;
+}
+
+.test {
+    position: absolute;
+    background-color: red;
+    height: 70px;
+    width: 70px;
+    top: -70px;
+    left: -70px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.center1 {
+    position: absolute;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    text-align: center;
+    line-height: 100px;
+}
+.left{
+    left: 0;
+}
+.right{
+    position: absolute;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    text-align: center;
+    line-height: 100px;
+    right: 0;
+}
+.top{
+    position: absolute;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    line-height: 100px;
+    right: 0;
+}
+.bot{
+    position: absolute;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    line-height: 100px;
+    right: 0;
+}
